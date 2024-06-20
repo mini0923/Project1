@@ -7,6 +7,8 @@ public class HelloJava {
 
 		System.out.println("JeongSeongMin"); 	
 		
+		//수정~
+		
 	}
 
 }
